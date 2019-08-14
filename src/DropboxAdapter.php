@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\FlysystemDropbox;
+namespace Nhaai\FlysystemDropbox;
 
 use Spatie\Dropbox\Client;
 use League\Flysystem\Config;
