@@ -1,5 +1,5 @@
 {
-    "name": "nhaai/flysystem-dropbox",
+    "name": "nhaai/flysystem-dropbox-v2",
     "description": "Flysystem Adapter for the Dropbox v2 API",
     "keywords": [
         "nhaai",
@@ -13,9 +13,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Vanderbist",
-            "email": "alex.vanderbist@gmail.com",
-            "homepage": "https://spatie.be",
+            "name": "Minh Tu Pham",
+            "email": "minhtu.bk14@gmail.com",
+            "homepage": "https://nhaai.herokuapp.com",
             "role": "Developer"
         }
     ],
