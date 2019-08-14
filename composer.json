@@ -1,5 +1,5 @@
 {
-    "name": "nhaai/flysystem-dropbox-v2",
+    "name": "nhaai/flysystem-dropbox",
     "description": "Flysystem Adapter for the Dropbox v2 API",
     "keywords": [
         "nhaai",
